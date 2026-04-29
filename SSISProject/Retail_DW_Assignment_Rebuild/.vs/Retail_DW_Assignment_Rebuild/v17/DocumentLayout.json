@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DWBI_Assignment_Rebuild\\SSISProject\\Retail_DW_Assignment_Rebuild\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9675876B-1CB3-A93D-0D1F-6C5087F1B034}|Retail_DW_Assignment_Rebuild\\Retail_DW_Assignment_Rebuild.dtproj|C:\\DWBI_Assignment_Rebuild\\SSISProject\\Retail_DW_Assignment_Rebuild\\Retail_DW_Assignment_Rebuild\\Retail_Update_AccumulatingFact.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{9675876B-1CB3-A93D-0D1F-6C5087F1B034}|Retail_DW_Assignment_Rebuild\\Retail_DW_Assignment_Rebuild.dtproj|solutionrelative:Retail_DW_Assignment_Rebuild\\Retail_Update_AccumulatingFact.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9675876B-1CB3-A93D-0D1F-6C5087F1B034}|Retail_DW_Assignment_Rebuild\\Retail_DW_Assignment_Rebuild.dtproj|C:\\DWBI_Assignment_Rebuild\\SSISProject\\Retail_DW_Assignment_Rebuild\\Retail_DW_Assignment_Rebuild\\Retail_Load_DW.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{9675876B-1CB3-A93D-0D1F-6C5087F1B034}|Retail_DW_Assignment_Rebuild\\Retail_DW_Assignment_Rebuild.dtproj|solutionrelative:Retail_DW_Assignment_Rebuild\\Retail_Load_DW.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9675876B-1CB3-A93D-0D1F-6C5087F1B034}|Retail_DW_Assignment_Rebuild\\Retail_DW_Assignment_Rebuild.dtproj|C:\\DWBI_Assignment_Rebuild\\SSISProject\\Retail_DW_Assignment_Rebuild\\Retail_DW_Assignment_Rebuild\\Retail_Load_Staging.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{9675876B-1CB3-A93D-0D1F-6C5087F1B034}|Retail_DW_Assignment_Rebuild\\Retail_DW_Assignment_Rebuild.dtproj|solutionrelative:Retail_DW_Assignment_Rebuild\\Retail_Load_Staging.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Retail_Update_AccumulatingFact.dtsx [Design]",
+              "DocumentMoniker": "C:\\DWBI_Assignment_Rebuild\\SSISProject\\Retail_DW_Assignment_Rebuild\\Retail_DW_Assignment_Rebuild\\Retail_Update_AccumulatingFact.dtsx",
+              "RelativeDocumentMoniker": "Retail_DW_Assignment_Rebuild\\Retail_Update_AccumulatingFact.dtsx",
+              "ToolTip": "C:\\DWBI_Assignment_Rebuild\\SSISProject\\Retail_DW_Assignment_Rebuild\\Retail_DW_Assignment_Rebuild\\Retail_Update_AccumulatingFact.dtsx [Design]",
+              "RelativeToolTip": "Retail_DW_Assignment_Rebuild\\Retail_Update_AccumulatingFact.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|",
+              "WhenOpened": "2026-03-24T09:03:39.311Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Retail_Load_DW.dtsx [Design]",
+              "DocumentMoniker": "C:\\DWBI_Assignment_Rebuild\\SSISProject\\Retail_DW_Assignment_Rebuild\\Retail_DW_Assignment_Rebuild\\Retail_Load_DW.dtsx",
+              "RelativeDocumentMoniker": "Retail_DW_Assignment_Rebuild\\Retail_Load_DW.dtsx",
+              "ToolTip": "C:\\DWBI_Assignment_Rebuild\\SSISProject\\Retail_DW_Assignment_Rebuild\\Retail_DW_Assignment_Rebuild\\Retail_Load_DW.dtsx [Design]*",
+              "RelativeToolTip": "Retail_DW_Assignment_Rebuild\\Retail_Load_DW.dtsx [Design]*",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|",
+              "WhenOpened": "2026-03-24T09:03:34.67Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Retail_Load_Staging.dtsx [Design]",
+              "DocumentMoniker": "C:\\DWBI_Assignment_Rebuild\\SSISProject\\Retail_DW_Assignment_Rebuild\\Retail_DW_Assignment_Rebuild\\Retail_Load_Staging.dtsx",
+              "RelativeDocumentMoniker": "Retail_DW_Assignment_Rebuild\\Retail_Load_Staging.dtsx",
+              "ToolTip": "C:\\DWBI_Assignment_Rebuild\\SSISProject\\Retail_DW_Assignment_Rebuild\\Retail_DW_Assignment_Rebuild\\Retail_Load_Staging.dtsx [Design]",
+              "RelativeToolTip": "Retail_DW_Assignment_Rebuild\\Retail_Load_Staging.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|",
+              "WhenOpened": "2026-03-24T09:02:17.478Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
