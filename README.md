@@ -136,15 +136,15 @@ Unmatched update records were redirected to:
 
 ⭐ Key Features
 
-Retail Data Warehouse implementation
-Multiple data source types
-Staging database
-Star Schema design
-Fact and dimension tables
-SSIS ETL packages
-SCD Type 2 implementation
-Accumulating fact table update
-Lookup transformations
-Data conversion transformations
-Reject file handling
+- Retail Data Warehouse implementation
+- Multiple data source types
+- Staging database
+- Star Schema design
+- Fact and dimension tables
+- SSIS ETL packages
+- SCD Type 2 implementation
+- Accumulating fact table update
+- Lookup transformations
+- Data conversion transformations
+- Reject file handling
 
